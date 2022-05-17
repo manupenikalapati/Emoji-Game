@@ -1,0 +1,19 @@
+/* Write your code here. */
+.main-card {
+  background-image: linear-gradient(to right bottom, #9796f0, #fbc7d4);
+  min-height: 100vh;
+  max-width: 350px;
+  display: flex;
+  flex-direction: column;
+}
+
+.unOrderList-style {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.emoji-game-card {
+  padding: 15px;
+}
